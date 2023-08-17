@@ -1,2 +1,2 @@
 # collierarts
-art store for suzanne collier
+a website for my grandmothers artwork
